@@ -8,7 +8,7 @@ Built using <https://github.com/gutenye/ocr/tree/main/packages/browser/example>
 
 ```html
 <script>
-  window.ortWasmPaths = "https://cdn.jsdelivr.net/npm/paddleocr-browser/dist/"
+  window.ortWasmPaths = "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.17.3/dist/"
 </script>
 <script src="https://cdn.jsdelivr.net/npm/paddleocr-browser/dist/paddleocr.js"></script>
 ```
